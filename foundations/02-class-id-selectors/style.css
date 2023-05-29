@@ -1,0 +1,20 @@
+.uneven {
+    background-color: #cd5c5c;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #1c1ca1;
+    font-size: 36px;
+}
+
+#third,
+#fourth {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #8bc48b;
+    font-weight: bold;
+}
+
